@@ -1,3 +1,9 @@
+# ⚠️ Unmaintained Project
+
+**This project is no longer maintained. For an actively supported version, please use this fork: [quake-terminal](https://github.com/diegodario88/quake-terminal)**
+
+---
+
 # It's a GNOME Shell extension adds support quake-mode for any application
 
 ## Installation
